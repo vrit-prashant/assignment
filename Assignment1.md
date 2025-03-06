@@ -8,12 +8,14 @@ Here's an example of how to structure the Markdown file for your assignment:
 Write a program to print your name in a star pattern.
 
 **Example:**
-If your name is "John", the output should look like this:
+If your name is "KRIPA", the output should look like this and even if its vertical as this will be in terminal, it doesnt matter but make sure to print the name anyhow!!!:
 
 ```
-*     *     *     *     *
-*     J     O     H     N
-*     *     *     *     *
+*   *  ****   *****  ****    ***  
+*  *   *   *    *    *   *  *   * 
+***    ****     *    ****   ***** 
+*  *   *  *     *    *      *   * 
+*   *  *   *  *****  *      *   * 
 ```
 
 ## 2. 3Sum is Zero
