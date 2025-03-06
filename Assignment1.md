@@ -1,5 +1,3 @@
-Here's an example of how to structure the Markdown file for your assignment:
-
 ```markdown
 # Assignment: Algorithms and Pattern Programs
 
