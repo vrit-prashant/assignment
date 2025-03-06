@@ -18,6 +18,7 @@ If your name is "KRIPA", the output should look like this and even if its vertic
 *   *  *   *  *****  *      *   * 
 ```
 
+
 ## 2. 3Sum is Zero
 
 Given an array of integers, write a program to find all unique triplets in the array that sum up to zero.
