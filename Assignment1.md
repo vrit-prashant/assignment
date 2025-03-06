@@ -10,13 +10,11 @@ Write a program to print your name in a star pattern.
 **Example:**
 If your name is "KRIPA", the output should look like this and even if its vertical as this will be in terminal, it doesnt matter but make sure to print the name anyhow!!!:
 
-```
 *   *  ****   *****  ****    ***  
 *  *   *   *    *    *   *  *   * 
 ***    ****     *    ****   ***** 
 *  *   *  *     *    *      *   * 
 *   *  *   *  *****  *      *   * 
-```
 
 
 ## 2. 3Sum is Zero
